@@ -37,6 +37,10 @@ Nessa aplicação configure as seguintes ferramentas:
 - **Prettier** - yarn add prettier eslint-config-prettier eslint-plugin-prettier -D
 - **EditorConfig** - Adicionar a extensão do VSCode, botão direito no diretório raíz e generate .editorconfig. As ultimas duas linhas true.
 
+- **Sequelize** - yarn add sequelize | yarn add sequelize-cli | yarn add pg pg-hstore
+
+- Criar arquivo database.js e informar as configurações do banco.
+
 Durante esse desafio você dará início a um novo projeto no Bootcamp, esse projeto será desenvolvido aos poucos até o fim da sua jornada onde você terá uma aplicação completa envolvendo back-end, front-end e mobile.
 
 Esse projeto também será utilizado para a certificação do bootcamp, então bora pro código!
