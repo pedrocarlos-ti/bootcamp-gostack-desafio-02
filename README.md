@@ -58,7 +58,7 @@ Permita que um usuário se autentique em sua aplicação utilizando e-mail e sen
 - A autenticação deve ser feita utilizando JWT.
 - Realize a validação dos dados de entrada;
 
-### Cadastro e atualização de usuários
+### Cadastro e atualização de usuários.
 
 Permita que novos usuários se cadastrem em sua aplicação utilizando nome, e-mail e senha.
 
@@ -67,7 +67,7 @@ Para atualizar a senha, o usuário deve também enviar um campo de confirmação
 - Criptografe a senha do usuário para segurança.
 - Realize a validação dos dados de entrada;
 
-## Entrega
+### Entrega
 
 Esse desafio **não precisa ser entregue** e não receberá correção, mas você pode ver o resultado do código do desafio aqui: https://github.com/Rocketseat/bootcamp-gostack-desafio-02
 
